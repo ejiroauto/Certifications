@@ -1,5 +1,5 @@
 # Certifications
-This Repository showcases all the certifications and courses I've completed, covering various topics in IT.
+This Repository showcases all the certifications, courses and labs I've completed, covering various topics in IT.
 
 
 
